@@ -2,3 +2,8 @@ resource{
 
 var="student"
 }
+
+resource1{
+
+name="ABC"
+}
